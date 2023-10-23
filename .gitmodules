@@ -1,0 +1,3 @@
+[submodule "UnrealRanges"]
+	path = UnrealRanges
+	url = https://github.com/vsemenyakin/UnrealRanges.git
